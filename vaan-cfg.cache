@@ -1,24 +1,19 @@
 CACHE MANIFEST 
 # vaan-cfg Host
-
 alert.mjs
-cache.html
+exploit.js
+host.jpg
+index.html
+goldhen.bin
 chain.mjs
 config.mjs
 constants.mjs
 exploit.mjs
-goldhen.bin
-host.jpg
-index.html
-int64.js
+cache.html
 int64.mjs
 kexploit.js
 mem.mjs
 memtools.mjs
 offset.mjs
-rop.js
 rw.mjs
 utils.mjs
-
-NETWORK: 
-* 
